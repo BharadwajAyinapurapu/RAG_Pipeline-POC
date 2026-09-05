@@ -4,7 +4,9 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "langchain>=1.4.0",
+]
 
 [project.scripts]
 rag-pipeline-poc = "rag_pipeline_poc:main"
