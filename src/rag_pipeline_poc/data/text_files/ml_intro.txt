@@ -1,0 +1,2 @@
+Machine learning is a branch of artificial intelligence where computers learn patterns from data instead of using direct human-written rules.Instead of manual instructions, 
+systems use data and algorithms to improve performance and make predictions on new information.
