@@ -1,0 +1,1 @@
+Disadvantage - All the files must be of same type
